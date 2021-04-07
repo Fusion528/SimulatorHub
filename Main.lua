@@ -6,4 +6,6 @@ elseif PI == 2423809996 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fusion528/SimulatorHub/main/IceCreamSim", true))()
 elseif PI == 4520536611 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fusion528/SimulatorHub/main/FitnessSimulator.lua",true))()
+elseif PI == 5977280685 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fusion528/SimulatorHub/main/NinjaLegends2.lua", true))()
 end
